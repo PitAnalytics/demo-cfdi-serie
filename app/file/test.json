@@ -1,0 +1,602 @@
+[
+  {
+    "rfcEmisor": "AAE1202174U6",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "AC677002-191F-9F47-B757-C7560271FACF",
+    "total": "2000.00"
+  },
+  {
+    "rfcEmisor": "AAE1202174U6",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "91B49A94-27DF-5B4F-A279-82A13F09AE9C",
+    "total": "3600.00"
+  },
+  {
+    "rfcEmisor": "AAE1202174U6",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "0E1B2218-ECE8-F54E-8FFB-3E6E337B2B25",
+    "total": "3600.00"
+  },
+  {
+    "rfcEmisor": "AAE1202174U6",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "E699E611-F781-C34D-9585-DD067E73E609",
+    "total": "2000.00"
+  },
+  {
+    "rfcEmisor": "AAE1202174U6",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "08C08A4C-51EE-7A4C-9607-28552C0BCACF",
+    "total": "3600.00"
+  },
+  {
+    "rfcEmisor": "AAE1202174U6",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "9778EC38-5D0B-A848-A75F-AE83E27848F0",
+    "total": "3600.00"
+  },
+  {
+    "rfcEmisor": "AAE1202174U6",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "A56DD41A-26E6-0F4F-876C-D83CA67E6A6A",
+    "total": "2000.00"
+  },
+  {
+    "rfcEmisor": "AAE1202174U6",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "00D272EC-C4DD-714C-9D28-5013607A1D3A",
+    "total": "2000.00"
+  },
+  {
+    "rfcEmisor": "AAG981014LW4",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "B67EDA85-626C-4452-9AB2-61333CB83815",
+    "total": "706.44"
+  },
+  {
+    "rfcEmisor": "AAI580414GA9",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "d53a8641-1c55-429e-a49a-10b246ece97e",
+    "total": "19049.00"
+  },
+  {
+    "rfcEmisor": "AAS150221DQ8",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "78289128-5623-EE4D-A458-0C055EB8D194",
+    "total": "7540.00"
+  },
+  {
+    "rfcEmisor": "AAS150221DQ8",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "68FDF903-4184-4BC5-9186-4EDA6E337774",
+    "total": "7500.00"
+  },
+  {
+    "rfcEmisor": "AAS150221DQ8",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "EBCCC8B5-10FC-4178-BC9C-CE314D7D3029",
+    "total": "34800.00"
+  },
+  {
+    "rfcEmisor": "AAS150221DQ8",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "12E9FCBE-8088-4143-B5BA-BC6C3744E762",
+    "total": "26102.90"
+  },
+  {
+    "rfcEmisor": "AAS9207314T7",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "267308FE-1983-0F49-BFD5-4324761D554F",
+    "total": "2053.66"
+  },
+  {
+    "rfcEmisor": "AAS9207314T7",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "AD26669D-D284-4145-AB5C-901E25C4CBA5",
+    "total": "27830.99"
+  },
+  {
+    "rfcEmisor": "AAS9207314T7",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "1240BEF7-512F-C041-B2E5-D2B6B8C514F9",
+    "total": "4500.80"
+  },
+  {
+    "rfcEmisor": "ABM1109213L0",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "466FFD55-B360-4667-9A50-ECA4CDE82CCB",
+    "total": "16100.00"
+  },
+  {
+    "rfcEmisor": "ABM1109213L0",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "35976D49-A610-4C62-9289-5A6DF165CA86",
+    "total": "137277.00"
+  },
+  {
+    "rfcEmisor": "ABM1109213L0",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "BC42988F-6EE1-4478-A960-946A456FA9B1",
+    "total": "718.50"
+  },
+  {
+    "rfcEmisor": "ABM1109213L0",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "7320CEC2-74C0-4B4C-9CB0-82B61BC7E322",
+    "total": "831.67"
+  },
+  {
+    "rfcEmisor": "ABM1109213L0",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "DEE89EEC-CEDE-48F9-BC4B-0EC88A31E13B",
+    "total": "13675.26"
+  },
+  {
+    "rfcEmisor": "ABM1109213L0",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "127873EA-70DF-4DCC-B265-F2B05473007D",
+    "total": "23880.00"
+  },
+  {
+    "rfcEmisor": "ABM1109213L0",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "11177E6D-74DA-438C-B9D9-BA9FDABEE796",
+    "total": "16100.00"
+  },
+  {
+    "rfcEmisor": "ABM1109213L0",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "A379B440-01CA-4D88-A49E-D48C159C2145",
+    "total": "16100.00"
+  },
+  {
+    "rfcEmisor": "ABM1109213L0",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "7B246FF1-B368-4214-BDFE-A6C6B8EAA951",
+    "total": "16100.00"
+  },
+  {
+    "rfcEmisor": "ACA830901ML5",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "3689D765-74D2-4EB6-8DF4-3923AC1AB806",
+    "total": "274.54"
+  },
+  {
+    "rfcEmisor": "ACA830901ML5",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "211D3BC1-F628-4E74-9DFF-1DFA60329D0D",
+    "total": "5.00"
+  },
+  {
+    "rfcEmisor": "ACA830901ML5",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "329C35AD-B861-4691-9A35-FD100D9C1E0A",
+    "total": "426.26"
+  },
+  {
+    "rfcEmisor": "ACA830901ML5",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "6AE76FD5-0D3A-4473-80D4-9EB4423BCBB4",
+    "total": "3254.02"
+  },
+  {
+    "rfcEmisor": "ACM830827CW6",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "26316369-0870-4019-864E-86512308FF3E",
+    "total": "1058.31"
+  },
+  {
+    "rfcEmisor": "ACS100407M72",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "6E982112-4D66-4B9A-80F2-10AAB002D179",
+    "total": "200.00"
+  },
+  {
+    "rfcEmisor": "ADB9606076C0",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "957C7EB7-B679-436F-ACCF-CEEDAAD86CBE",
+    "total": "2600.00"
+  },
+  {
+    "rfcEmisor": "ADB9606076C0",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "BCB6EA67-58F3-4744-B591-0D0A2C7A0377",
+    "total": "2600.00"
+  },
+  {
+    "rfcEmisor": "ADB9606076C0",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "420D92E1-51C7-46F1-8259-BCCE16A01F59",
+    "total": "2600.00"
+  },
+  {
+    "rfcEmisor": "ADB9606076C0",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "9DBB421D-BDA5-4E8E-B634-B6D826181F0E",
+    "total": "2600.00"
+  },
+  {
+    "rfcEmisor": "ADI100819GD4",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "B7694D97-4F03-4DC7-A4D7-84A9945CB303",
+    "total": "48383.60"
+  },
+  {
+    "rfcEmisor": "AEC810901298",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "9086E3DA-74D0-4DA7-A162-4D98282811DF",
+    "total": "490.00"
+  },
+  {
+    "rfcEmisor": "AEC810901298",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "BD77B7FE-2D0F-47C3-B8C0-F03578C28A6E",
+    "total": "28601.93"
+  },
+  {
+    "rfcEmisor": "AEL050620TJ9",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "1ff7786e-2d90-4489-b753-148af9f5bbdc",
+    "total": "1071.96"
+  },
+  {
+    "rfcEmisor": "AEL050620TJ9",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "2ec6a0e1-e4d4-4d74-b221-5a2aa3907917",
+    "total": "229.94"
+  },
+  {
+    "rfcEmisor": "AEL050620TJ9",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "caa08dff-8ca7-4cca-9d31-225cd44ed521",
+    "total": "76.00"
+  },
+  {
+    "rfcEmisor": "AGE941122995",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "4581A21C-4796-4CE9-B78A-F37EFE6BCE64",
+    "total": "1322.00"
+  },
+  {
+    "rfcEmisor": "AGE941122995",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "4B0F2AA5-5443-4B9E-85A8-F195A0A06EFD",
+    "total": "167770.00"
+  },
+  {
+    "rfcEmisor": "AGE941122995",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "85A4A8B2-34C4-4A28-B12A-A859CE00EA74",
+    "total": "5160.30"
+  },
+  {
+    "rfcEmisor": "AGE941122995",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "ADC48101-A6E2-4316-A0C6-DEE2885040EB",
+    "total": "167770.00"
+  },
+  {
+    "rfcEmisor": "AGE941122995",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "233862EF-E36B-4C9D-B94E-897B24D7B4B1",
+    "total": "167770.00"
+  },
+  {
+    "rfcEmisor": "AGO740516IY4",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "6FBF854D-9690-44C1-ABB6-6051CFDE259B",
+    "total": "14208.12"
+  },
+  {
+    "rfcEmisor": "AGO740516IY4",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "3CEBFFAF-5DE2-49AA-97B7-0CC130936F0F",
+    "total": "14208.12"
+  },
+  {
+    "rfcEmisor": "AGO740516IY4",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "D477FB3A-8B8D-4CF4-9FA2-3AD4C1D6A325",
+    "total": "14208.12"
+  },
+  {
+    "rfcEmisor": "AGO740516IY4",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "3531D98E-0ACF-4DDB-803C-2B651EAD7AB1",
+    "total": "14208.12"
+  },
+  {
+    "rfcEmisor": "AHG130507626",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "D5C36F80-63AE-9DA8-AE52-7D8AD2E7C8F4",
+    "total": "5971.68"
+  },
+  {
+    "rfcEmisor": "AHG130507626",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "F8F6C1F5-556E-1A7E-2B3A-F9D5979FB6E9",
+    "total": "260924.60"
+  },
+  {
+    "rfcEmisor": "AHG130507626",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "A5F1FD86-D775-E4D6-6BA9-C0FDBDEBA93D",
+    "total": "72.00"
+  },
+  {
+    "rfcEmisor": "AHG130507626",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "A9D816A7-D7EC-3248-BB6A-AE037E6D8B74",
+    "total": "5971.68"
+  },
+  {
+    "rfcEmisor": "AHG130507626",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "54B9B767-22B2-F427-C998-7F7C077F7F8A",
+    "total": "20066.17"
+  },
+  {
+    "rfcEmisor": "AHG130507626",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "1E6FBDD9-9B8E-D398-F985-448DE48E20D3",
+    "total": "5971.68"
+  },
+  {
+    "rfcEmisor": "AHG130507626",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "BFEF385B-84C1-8931-1606-98CCF6B6F3D7",
+    "total": "423.01"
+  },
+  {
+    "rfcEmisor": "AHG130507626",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "87BD4DA2-0A67-922F-1871-8237D25E0044",
+    "total": "18288.23"
+  },
+  {
+    "rfcEmisor": "AHG130507626",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "1404235C-6B5C-6656-2ED9-594245828A48",
+    "total": "20066.17"
+  },
+  {
+    "rfcEmisor": "AHG130507626",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "BAC1C776-A34A-63EE-B5FC-ABE1EB4FC9A0",
+    "total": "18288.23"
+  },
+  {
+    "rfcEmisor": "AHG130507626",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "DB1C07C5-BD3F-EB8D-D4BA-1DD78F056B66",
+    "total": "5971.68"
+  },
+  {
+    "rfcEmisor": "AHG130507626",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "73880C5D-226A-02ED-5000-3D1B9FBA0FFC",
+    "total": "1808.80"
+  },
+  {
+    "rfcEmisor": "AHG130507626",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "64FB9328-8770-E31F-D2F0-F0205820D560",
+    "total": "18288.23"
+  },
+  {
+    "rfcEmisor": "AHG130507626",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "ED6F7610-2DA7-BD9D-1A22-458B754D0418",
+    "total": "18288.23"
+  },
+  {
+    "rfcEmisor": "AHG130507626",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "84799941-E4B9-DE02-C2D6-022BFFDD709D",
+    "total": "20066.17"
+  },
+  {
+    "rfcEmisor": "AHG130507626",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "5009987B-2713-25AE-E560-3C3B58AF336D",
+    "total": "20066.17"
+  },
+  {
+    "rfcEmisor": "AIC980601988",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "7A056FA4-E626-49FF-A0EE-D595DC9CDA4E",
+    "total": "288.00"
+  },
+  {
+    "rfcEmisor": "AIC980601988",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "AB853F3A-B80F-4F23-B505-9F422BA31184",
+    "total": "288.00"
+  },
+  {
+    "rfcEmisor": "AIC980601988",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "61FD0EBF-9E2A-49DA-856A-56EE1FB2FBA9",
+    "total": "288.00"
+  },
+  {
+    "rfcEmisor": "AIC980601988",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "55394B0A-6E30-4071-9C1B-C95938F29E22",
+    "total": "288.00"
+  },
+  {
+    "rfcEmisor": "AIC980601988",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "AEBDC2E2-666E-4245-9157-C72AC20941FA",
+    "total": "576.00"
+  },
+  {
+    "rfcEmisor": "AIC980601988",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "32F24D28-FE8A-45BA-8BF7-C146C1602E13",
+    "total": "288.00"
+  },
+  {
+    "rfcEmisor": "AIC980601988",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "77D02973-4B8C-47E3-85C6-1B8F24FB911B",
+    "total": "288.00"
+  },
+  {
+    "rfcEmisor": "AME880912I89",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "0D08581B-C8B8-400B-99D1-BEF157850AD3",
+    "total": "210.00"
+  },
+  {
+    "rfcEmisor": "AME880912I89",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "CFFA4395-63B1-4DA6-BB10-F9434870A98D",
+    "total": "180.00"
+  },
+  {
+    "rfcEmisor": "AME880912I89",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "4EAAD508-0184-4B5F-8061-6C5D1D2340B7",
+    "total": "210.00"
+  },
+  {
+    "rfcEmisor": "AME880912I89",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "BF2CA0C2-6069-4C68-AE70-58176C03A8D6",
+    "total": "299.00"
+  },
+  {
+    "rfcEmisor": "AME880912I89",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "DD34774D-5166-4236-ABE0-3C4FB3F7F3C2",
+    "total": "299.00"
+  },
+  {
+    "rfcEmisor": "AME880912I89",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "0E8B53FD-7738-4A95-BF79-91F59D22196D",
+    "total": "11919.00"
+  },
+  {
+    "rfcEmisor": "AME880912I89",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "985AD542-6824-4250-8488-68B9C4B6E30F",
+    "total": "210.00"
+  },
+  {
+    "rfcEmisor": "AME880912I89",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "36E58CCE-F136-44B8-AD9D-9D8C8ADB5AC6",
+    "total": "210.00"
+  },
+  {
+    "rfcEmisor": "AME880912I89",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "D58DF0E3-077C-475D-871B-52A57CE9F97E",
+    "total": "14611.00"
+  },
+  {
+    "rfcEmisor": "AME880912I89",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "57FF91CE-E7DE-4204-9F27-BB0C936D68BC",
+    "total": "300.00"
+  },
+  {
+    "rfcEmisor": "AME880912I89",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "399FA8DE-C2CF-4B16-94E7-D37B549D49F5",
+    "total": "210.00"
+  },
+  {
+    "rfcEmisor": "AME880912I89",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "2132949E-6183-43E0-A1BF-F076474ADF9E",
+    "total": "10388.00"
+  },
+  {
+    "rfcEmisor": "AME880912I89",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "E7ECA9F2-A130-4119-ACAF-37FC823EDD02",
+    "total": "299.00"
+  },
+  {
+    "rfcEmisor": "AME880912I89",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "06EEA42D-4BBA-4700-ABC0-BE2D37D72FE8",
+    "total": "210.00"
+  },
+  {
+    "rfcEmisor": "AME880912I89",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "0758B4EB-6812-496E-975E-95F5F6B425A9",
+    "total": "104.00"
+  },
+  {
+    "rfcEmisor": "AME880912I89",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "FFE5C2E6-574A-430D-B538-7D1558871751",
+    "total": "210.00"
+  },
+  {
+    "rfcEmisor": "AME880912I89",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "1843956B-2372-41F5-AE64-FD9DEAAEE5E4",
+    "total": "6673.98"
+  },
+  {
+    "rfcEmisor": "AME880912I89",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "1DE8B043-D0AA-4455-9E5B-ED608ED34C48",
+    "total": "7705.00"
+  },
+  {
+    "rfcEmisor": "AME880912I89",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "24760477-8E77-4162-9994-A820E09DC55F",
+    "total": "7767.00"
+  },
+  {
+    "rfcEmisor": "AME880912I89",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "82401E2F-7557-4248-8F4E-13392969968F",
+    "total": "210.00"
+  },
+  {
+    "rfcEmisor": "AME880912I89",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "13FAC192-624C-4D7F-918A-2DF7C986E22A",
+    "total": "15473.00"
+  },
+  {
+    "rfcEmisor": "AME880912I89",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "FF6BB74B-F838-4ACF-BACD-04D21AB837B1",
+    "total": "180.00"
+  },
+  {
+    "rfcEmisor": "AME880912I89",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "8DFA1A5A-2277-47A8-BBFF-319305787FC4",
+    "total": "299.00"
+  },
+  {
+    "rfcEmisor": "AME880912I89",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "0A112863-52EA-47A6-8C76-2D26703A6E45",
+    "total": "12353.00"
+  },
+  {
+    "rfcEmisor": "AME880912I89",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "7F2FA293-90D2-4591-9562-D5BF7A59CDEC",
+    "total": "180.00"
+  },
+  {
+    "rfcEmisor": "AME880912I89",
+    "rfcReceptor": "BMI061005NY5",
+    "uuid": "A11A93F0-DC90-46AD-8BDF-F92CB1883DAC",
+    "total": "299.00"
+  }
+]
